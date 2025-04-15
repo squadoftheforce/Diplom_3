@@ -1,0 +1,12 @@
+ru\stellarburger\testui\pages\ProfilePage.class
+ru\stellarburger\testui\WebDriverFactory$WebDriverCreator.class
+ru\stellarburger\testui\pages\MainPage.class
+ru\stellarburger\testui\pages\RegisterPage.class
+ru\stellarburger\testui\user\RandomUser.class
+ru\stellarburger\testui\pages\ConstructorPage.class
+ru\stellarburger\testui\pages\LoginPage.class
+ru\stellarburger\testui\pages\StellarBurgerPage.class
+ru\stellarburger\testui\WebDriverFactory.class
+ru\stellarburger\testui\RandomData.class
+ru\stellarburger\testui\api\ApiMethods.class
+ru\stellarburger\testui\Config.class
